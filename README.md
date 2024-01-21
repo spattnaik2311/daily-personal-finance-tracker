@@ -87,6 +87,7 @@ Welcome to the Daily Personal Finance Tracker project! This tool is designed to 
 - **Investments/Wealth Tracker**
   - Granular investment tracking (e.g., MF name, FD bank name & a/c number)
   - Monthly visualization of Net Worth
+  - Investment encashment flow
 - **Aggregate Credit Card & BNPL Bills Monthly**
 - **Monthly Opening Bank Balance Comparison**
 - **Expense Tracking at Account Level**
