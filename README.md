@@ -82,6 +82,7 @@ Welcome to the Daily Personal Finance Tracker project! This tool is designed to 
 
 ## Additional Features in Progress
 
+- **Manage Cash Withdrawal & Deposit**
 - **Deduct Refund/Cashback from respective expense categories**
 - **Budgeting for Each Expense Category**
 - **Investments/Wealth Tracker**
