@@ -82,6 +82,7 @@ Welcome to the Daily Personal Finance Tracker project! This tool is designed to 
 
 ## Additional Features in Progress
 
+- **Deduct Refund/Cashback from respective expense categories**
 - **Budgeting for Each Expense Category**
 - **Investments/Wealth Tracker**
   - Granular investment tracking (e.g., MF name, FD bank name & a/c number)
