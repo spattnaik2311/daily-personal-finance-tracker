@@ -6,7 +6,8 @@ Welcome to the Daily Personal Finance Tracker project! This tool is designed to 
 
 - **Daily Email Summary Reports**: Receive a daily email summarizing your financial activities, including visualizations of categorized expenses, income summaries, investment aggregates, and more.
 - **Shared Expense Tracking**: Record shared expenses in a transaction and automatically derive your share as the actual expense.
-- **Non-Expense Credit Card & BNPL Bills**: Easily track Credit Card and Buy Now Pay Later (BNPL) bill payments as non-expenses.
+- **Non-Transactional Cashflows Recorded But Not Counted As Expense or Income:** Easily track Credit Card & BNPL bill payments, Cash Withdrawals & Deposits without affecting expense or income summaries.
+- **Refund / Cashback Adjustment In Expense Summaries:** Record refunds & cashbacks, and they get adjusted in the respective transaction's expense category, deducting the amount from the net expense, ensuring accurate summaries.
 - **Flexible Income Handling**: Record cashbacks, refunds, and shared expense settlements as non-income, providing a more accurate financial snapshot.
 - **Adjustable Variable Expenses**: Calculate actual adjustable variable expenses, excluding fixed and unavoidable costs such as rent, utilities, and more.
 
@@ -82,8 +83,6 @@ Welcome to the Daily Personal Finance Tracker project! This tool is designed to 
 
 ## Additional Features in Progress
 
-- **Manage Cash Withdrawal & Deposit**
-- **Deduct Refund/Cashback from respective expense categories**
 - **Budgeting for Each Expense Category**
 - **Investments/Wealth Tracker**
   - Granular investment tracking (e.g., MF name, FD bank name & a/c number)
